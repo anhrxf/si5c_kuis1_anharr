@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "scripts": { "start": "node app.js", "dev": "nodemon app.js" },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anhrxf/Tugas1_RESTful_2428240158.git"
@@ -17,6 +20,8 @@
   },
   "homepage": "https://github.com/anhrxf/Tugas1_RESTful_2428240158#readme",
   "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.5",
     "express": "^5.2.1"
   },
   "devDependencies": {
