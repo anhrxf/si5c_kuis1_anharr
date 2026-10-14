@@ -1,5 +1,5 @@
 {
-  "name": "tugas1_restful_2428240158",
+  "name": "si5c_kuis1_anharr",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,22 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anhrxf/Tugas1_RESTful_2428240158.git"
+    "url": "git+https://github.com/anhrxf/si5c_kuis1_anharr.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/anhrxf/Tugas1_RESTful_2428240158/issues"
+    "url": "https://github.com/anhrxf/si5c_kuis1_anharr/issues"
   },
-  "homepage": "https://github.com/anhrxf/Tugas1_RESTful_2428240158#readme",
+  "homepage": "https://github.com/anhrxf/si5c_kuis1_anharr#readme",
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^18.0.5",
-    "express": "^5.2.1"
+    "express": "^5.3.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.14"
+    "nodemon": "^1.19.4"
   }
 }
